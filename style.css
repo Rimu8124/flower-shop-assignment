@@ -102,7 +102,7 @@
     text-decoration-line: underline;
 }
 
-.different-flowers{
+.different-flowers {
     display: flex;
     justify-content: center;
     gap: 250px;
@@ -113,11 +113,13 @@
     border-radius: 8px;
     background: rgba(39, 39, 39, 0.05);
 }
-.support{
+
+.support {
     text-align: center;
 }
-.color{
-    color:#E55473;
+
+.color {
+    color: #E55473;
 
 }
 
@@ -141,7 +143,7 @@
     padding-top: 50px;
     padding-bottom: 50px;
     text-align: center;
-   
+
 }
 
 .a-para {
@@ -161,24 +163,76 @@
     border-radius: 8px;
     padding: 20px;
     background: #E55473;
-    
-}
-.text{
-    text-align: center;
-}
-.name{
-    color: #272727;
-text-align: center;
-font-family: Lato;
-font-size: 40px;
-font-style: normal;
-font-weight: 800;
-line-height: normal;
+
 }
 
-.instragram img{
+.text {
+    text-align: center;
+}
+
+.name {
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.instragram img {
     margin-right: 40px;
 }
-.instragram{
+
+.instragram {
     text-align: center;
+}
+
+.get {
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.coupon {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.info {
+    text-align: center;
+    border-radius: 8px;
+    background: #FFF;
+}
+
+.btn-subscribe {
+    border-radius: 8px;
+    background: #E55473;
+    padding: 20px 20px;
+}
+
+.background {
+    background-image: url('Rectangle\ 9.png');
+    height: 400px;
+    width: 1450px;
+    text-align: center;
+    margin-left: 200px;
+    margin-top: 100px;
+    background-repeat: no-repeat;
+    padding-top: 100px;
+}
+
+.input-field {
+    padding-top: 18px;
+    padding-bottom: 18px;
+    padding-left: 100px;
+    padding-right: 100px;
+    border-radius: 10px;
 }
