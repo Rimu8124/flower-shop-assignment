@@ -239,4 +239,9 @@
 .footer{
     color: white;
     background-color: black;
+    text-align: center;
+    padding: 150px 150px;
+}
+.bg-color{
+    color: #E55473;
 }
