@@ -245,3 +245,15 @@
 .bg-color{
     color: #E55473;
 }
+.rose{
+    text-align: center;
+}
+.rose-pic{
+    
+    padding-left: 860px;
+}
+.black-rose{
+    padding: 10px 10px;
+    background-color: red;
+    margin-bottom: 10px;
+}
